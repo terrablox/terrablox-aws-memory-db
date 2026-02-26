@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.2.0](https://github.com/terraform-aws-modules/terraform-aws-memory-db/compare/v3.1.0...v3.2.0) (2026-02-26)
+
+### Features
+
+* Support `network_type` and `ip_discovery` ([#19](https://github.com/terraform-aws-modules/terraform-aws-memory-db/issues/19)) ([7349ae8](https://github.com/terraform-aws-modules/terraform-aws-memory-db/commit/7349ae8895b2a0450f0cc9a40907c5251889792c))
+
 ## [3.1.0](https://github.com/terraform-aws-modules/terraform-aws-memory-db/compare/v3.0.0...v3.1.0) (2026-01-08)
 
 ### Features
